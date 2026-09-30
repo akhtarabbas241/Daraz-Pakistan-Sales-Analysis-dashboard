@@ -91,3 +91,10 @@ daraz-pakistan-sales-analysis-powerbi/
 │   └── Daraz_Sales_Data.xlsx
 └── Documentation/
     └── Project_Overview.pdf
+Author
+Akhtar Abbas
+
+Data Analyst | Power BI | Excel | SQL | Data Visualization
+
+📄 Disclaimer
+This project is created for learning, portfolio, and data analytics demonstration purposes.
