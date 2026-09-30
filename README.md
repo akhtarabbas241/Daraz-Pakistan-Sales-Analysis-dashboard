@@ -86,7 +86,7 @@ daraz-pakistan-sales-analysis-powerbi/
 ├── PowerBI/
 │   └── Daraz_Pakistan_Sales_Analytics.pbix
 ├── Dashboard/
-│   └── Daraz_Dashboard.png
+│   └──![Daraz_Dashboard.png](Daraz_Dashboard.png)
 ├── Data/
 │   └── Daraz_Sales_Data.xlsx
 └── Documentation/
