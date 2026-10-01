@@ -10,7 +10,7 @@ The goal of this project is to transform e-commerce sales data into meaningful b
 
 ## 🖥️ Dashboard Preview
 
-![Daraz Pakistan Sales Dashboard](./Dashboard/Daraz_Dashboard.png)
+![Daraz Pakistan Sales Dashboard](./Daraz_Dashboard.png)
 
 ## 🛠️ Tools & Technologies
 
